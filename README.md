@@ -6,7 +6,7 @@
 
 - 📚 Estou fazendo varios cursos na Udemy.
 
-- 👨‍🏫Eu participei como instrutor do Projeto FavelaWare, iniciativa que visa formar jovens programadores de 15 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique ai aqui para saber mais</a>
+- 👨‍🏫Participo como instrutor do Projeto FavelaWare, iniciativa que visa formar jovens programadores de 15 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique ai aqui para saber mais</a>
 
 - 🚀 Gosto muito de ouvir musica.
 
@@ -40,17 +40,14 @@
 <!-- Contact -->
 <h2>Contato: <img src="https://em-content.zobj.net/source/microsoft-teams/337/telephone-receiver_1f4de.png" width="35px"></h2>
 <p style="background:black">  
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-silva-23191520a/" target="_blank">
   <img src="https://img.shields.io/badge/-Joao Vitor-0077B5?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>  
-<a href="" target="_blank">
- <img src="https://img.shields.io/badge/-Joao Vitor-D14836?style=flat&logo=gmail&logoColor=white" 
- alt="Gmail"/>
-</a>  
-<a href="" target="_blank">
+
+<a href="https://wa.me/31972411462" target="_blank">
   <img src="https://img.shields.io/badge/-Joao Vitor-25D366??style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>  
 </a>  
-<a href="" target="_blank">
+<a href="https://instagram.com/joaovitorkb?igshid=YTQwZjQ0NmI0OA==" target="_blank">
  <img src="https://img.shields.io/badge/-Joao Vitor-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>

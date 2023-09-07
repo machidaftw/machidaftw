@@ -30,7 +30,7 @@
 
 <!-- Analitycs -->
 <div align="left">
-   <a href="https://github.com/lucelhocristiano">
+   <a href="https://github.com/machidaftw">
    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=machidaftw&show_icons=true&theme=react"/>
    
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machidaftw&show_icons=true&theme=react&layout=compact"/>

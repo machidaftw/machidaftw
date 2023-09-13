@@ -32,7 +32,10 @@
 <div align="left">
    <a href="https://github.com/machidaftw">
    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=machidaftw&show_icons=true&theme=react"/>
-   
+
+
+[![Machidaftw's GitHub stats](https://github-readme-stats.vercel.app/api?username=machidaftw)](https://github.com/machidaftw/github-readme-stats)   
+
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machidaftw&show_icons=true&theme=react&layout=compact"/>
 </div>
      

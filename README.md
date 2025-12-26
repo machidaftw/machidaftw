@@ -2,8 +2,7 @@
 <img align="right" height="580cm" src="https://raw.githubusercontent.com/gist/machidaftw/de81c36b8174d841efeba61a9d846c57/raw/59124fc3050a2fd69d0862e0038d294c4adf2b00/githubCard.svg"/>
 <h1 align= left>Ola gente<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50px">João</h1>
 
-- 🎓 Estou fazendo faculdade na universidade UNA cursando ADS (analise e desenvolvimento de sistemas).
-
+- 🎓 Sou formado em ADS pela faculdade UNA
 - 📚 Estou fazendo varios cursos na Udemy.
 
 - 👨‍🏫Participo como instrutor do Projeto FavelaWare, iniciativa que visa formar jovens programadores de 15 a 22 anos.<a href="https://favelaware.animahub.com.br/sobre" target="blank"> Clique ai aqui para saber mais</a>
@@ -18,6 +17,7 @@
 <h2 align="left"> Linguagens e IDE : <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java"/></code>
+<code><img width="40px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title = "Python"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
